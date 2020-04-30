@@ -1,0 +1,2 @@
+rootProject.name='Nav_drawer_with_back_navigation'
+include ':app'
